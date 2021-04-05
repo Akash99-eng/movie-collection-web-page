@@ -1,0 +1,285 @@
+body {
+    padding:0;
+    margin:0;
+}
+.main-page{
+    background-color:#171717;
+    width:360px;
+    height:1400px;
+}
+.up-border{
+    width:360px;
+    height:60px;
+    background-color:#2E2E2E;
+    }
+.hub{
+font-size:30px;
+margin-bottom:30px;
+
+width:150px;
+margin-top:-70px;
+color:#14b5d0;
+height:30px;
+
+}
+ .line-1st{
+margin-top:-86px;
+margin-left:100px;
+font-size:26px;
+color:#f9A206;
+display:flex;
+width:90px;
+
+
+height:80px;
+    
+}
+.search{
+    width:330px;
+    border:1px solid white;
+    
+    height:30px;
+    margin-left:10px;
+    background:transparent ;
+    border-radius:10px;
+    margin-top:-40px;
+    
+}
+.icon img{
+    width:30px;
+    margin-left:190px;
+    margin-bottom:150px;
+    border:2px solid red;
+    }
+    .godzila img{
+        width:150px;
+        height:170px;
+        margin-left:10px;
+        margin-top:20px;
+        transition:0.8s;
+    
+    }
+      .aboutg{
+          color:white;
+          width:150px;
+          margin-left:180px;
+          font-size:13px;
+          
+          margin-top:-185px;
+      }
+       .button{
+           width:100px;
+           height:40px;
+           margin-left:180px;
+           border-radius:30px;
+           background-image:linear-gradient(to bottom, red,orange)
+ 
+ 
+       }
+       a{
+           font-size:16px;
+           margin-left:13px;
+           color:blue;
+           margin-bottom:10px;
+       }
+       .horizon img{width:150px;
+        height:170px;
+        margin-left:10px;
+        margin-top:20px;
+    
+    }
+      .abouth{
+          color:white;
+          width:150px;
+          margin-left:180px;
+          font-size:13px;
+          
+          margin-top:-185px;
+      }
+       .button1{
+           width:100px;
+           height:40px;
+           margin-left:180px;
+           border-radius:30px;
+           background-color:#f9A206;
+       }
+       a{
+           font-size:16px;
+           margin-left:13px;
+           color:blue;
+       }
+       .hobit img{width:150px;
+        height:170px;
+        margin-left:10px;
+        margin-top:20px;
+    
+    }
+      .legend{
+          color:white;
+          width:150px;
+          margin-left:180px;
+          font-size:13px;
+          
+          margin-top:-185px;
+      }
+       .button1{
+           width:100px;
+           height:40px;
+           margin-left:180px;
+           border-radius:30px;
+           background-color:#f9A206;
+       }
+       a{
+           font-size:16px;
+           margin-left:13px;
+           color:blue;
+       }
+       .doctor img{width:150px;
+        height:170px;
+        margin-left:10px;
+        margin-top:20px;
+    
+    }
+      .strange{
+          color:white;
+          width:150px;
+          margin-left:180px;
+          font-size:13px;
+          
+          margin-top:-185px;
+      }
+       .button1{
+           width:100px;
+           height:40px;
+           margin-left:180px;
+           border-radius:30px;
+           background-color:#f9A206;
+       }
+       a{
+           font-size:16px;
+           margin-left:13px;
+           color:blue;
+       }
+         .passion img{width:150px;
+        height:170px;
+        margin-left:10px;
+        margin-top:20px;
+    
+    }
+      .mashi{
+          color:white;
+          width:150px;
+          margin-left:180px;
+          font-size:13px;
+          
+          margin-top:-185px;
+      }
+       .button1{
+           width:100px;
+           height:40px;
+           margin-left:180px;
+           border-radius:30px;
+           background-image:linear-gradient(to bottom, red,orange)
+ ;
+       }
+       a{
+           font-size:16px;
+           margin-left:13px;
+           color:blue;
+       }
+       .login p10{
+           font-size:15px;
+           color:#fff;
+        
+           
+           margin-left:290px;
+           
+           
+       }
+       p10{ margin-top:20px;}
+           .godzila img :hover{
+           transition:.8s;
+               
+           }
+           .prev{
+               width:90px;
+               height:40px;
+               color:#15f4ee;
+               margin-top:50px;
+               margin-left:70px;
+               border:2px solid #15f4ee;
+               border-radius:30px;
+               transition:.5s;
+               
+           }
+           .prev p11{
+           font-size:18px;
+           margin-left:25px;
+           font-family:poppins;
+               
+           }
+              .next{
+               width:90px;
+               height:40px;
+               color:#15f4ee;
+               margin-top:50px;
+               margin-left:70px;
+               border:2px solid #15f4ee;
+               border-radius:30px;
+               transition:.5s;
+               margin-top:-45px;
+               margin-left:190px;
+               transition:1.5s;
+               
+           }
+           .next p11{
+           font-size:18px;
+           margin-left:25px;
+           font-family:poppins;
+        
+               
+           }
+           p11 :hover{
+           box-shadow:0 5px 50px 0 #15f4ee inset;
+               
+               
+               
+           }
+          hr{
+               width:360px;
+               margin-top:50px;
+               
+           }
+           p20{
+               font-size:10px;
+               margin-left:20px;
+               
+               
+           }
+           p21{
+               font-size:10px;
+               margin-left:30px;
+               display:flex;
+               margin:10px;
+               
+        
+           }
+           p22{
+               font-size:10px;
+               margin-left:10px;
+               display:flex;
+               
+               
+               
+        
+           }
+           p22 a{
+               font-size:10px;
+               margin-left:40px;
+               color: orange;;
+               
+           }
+    
+
+           
+           
